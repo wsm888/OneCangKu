@@ -7,6 +7,8 @@ public class SysUser {
     private String password;
     private String phoneNum;
     private int status;
+    ////
+    private int age;
 
     public Long getId() {
         return id;
